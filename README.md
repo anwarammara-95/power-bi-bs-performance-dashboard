@@ -12,6 +12,10 @@ The dashboard helps users analyse key financial metrics, identify the
 drivers of change in the financial position of the business, and compare
 yearly performance of each component of the Balance Sheet.
 
+## Dashboard Preview
+
+![Balance Sheet Analysis Dashboard](Screenshot%202026-10-13%20193735.png)
+
 ## Key Features
 
 -   Working Capital KPIs
